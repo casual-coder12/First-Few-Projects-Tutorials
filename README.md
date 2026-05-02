@@ -1,6 +1,6 @@
 # Python Beginner Projects Collection
 
-This repository contains a collection of 5 beginner-friendly Python applications. Each project is designed to demonstrate fundamental programming concepts, data handling, and simple game logic in Python.
+This repository contains a collection of 5 beginner-friendly Python applications. Each project is designed to demonstrate fundamental programming concepts, data handling, and simple game logic in Python. It is inspired by tutorial posted on youtube.com.
 
 ## Projects Overview
 

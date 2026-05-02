@@ -1,0 +1,24 @@
+{
+    "tasks": [
+        {
+            "index": 1,
+            "description": "task_1",
+            "status": true
+        },
+        {
+            "index": 2,
+            "description": "task_2",
+            "status": true
+        },
+        {
+            "index": 3,
+            "description": "task_3",
+            "status": false
+        },
+        {
+            "index": 4,
+            "description": "task_4",
+            "status": true
+        }
+    ]
+}
